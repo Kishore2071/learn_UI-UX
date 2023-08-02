@@ -1,0 +1,95 @@
+.learn-more,
+.some-quick-example,
+.work-effortlessly {
+  position: absolute;
+  top: 42px;
+  left: 29px;
+  display: inline-block;
+  width: 169px;
+  height: 60px;
+}
+.learn-more,
+.some-quick-example {
+  top: 111px;
+  font-size: var(--font-size-base);
+  width: 184px;
+  height: 97px;
+}
+.learn-more {
+  top: 224px;
+  font-size: var(--font-size-xl);
+  color: var(--color-blue);
+  width: 115px;
+  height: 21px;
+}
+.work-effortlessly-parent {
+  position: absolute;
+  top: 247px;
+  left: 210px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 242px;
+  height: 287px;
+}
+.p {
+  margin: 0;
+}
+.intelligently-parent {
+  position: absolute;
+  top: 390px;
+  left: 498px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 242px;
+  height: 287px;
+}
+.desktop-4-child {
+  position: absolute;
+  top: 150.37px;
+  left: 285.26px;
+  width: 329.49px;
+  height: 201.23px;
+}
+.desktop-4-item,
+.doodle-4-1-icon,
+.doodle-7-1-icon {
+  position: absolute;
+  height: 56.26%;
+  width: 39.69%;
+  top: 18.35%;
+  right: 9.61%;
+  bottom: 25.39%;
+  left: 50.7%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.doodle-4-1-icon,
+.doodle-7-1-icon {
+  height: 18.59%;
+  width: 10.21%;
+  top: 23.09%;
+  right: 54.84%;
+  bottom: 58.32%;
+  left: 34.96%;
+}
+.doodle-4-1-icon {
+  height: 15.07%;
+  width: 8.27%;
+  top: 67.31%;
+  right: 77.79%;
+  bottom: 17.62%;
+  left: 13.94%;
+}
+.desktop-4 {
+  position: relative;
+  background-color: #191a2b;
+  width: 100%;
+  height: 823px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-4xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
